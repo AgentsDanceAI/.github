@@ -16,7 +16,7 @@
 
 | 产品 | 做什么 |
 |:--|:--|
-| 🧪&nbsp;**[PocketExpert&nbsp;AI&nbsp;·&nbsp;口袋专家AI](https://agentsdance.ai)** | 250+ 位 AI 行业专家, 一位或一群专家一起帮你查资料、写方案、做 PPT / 网页 / 视频。网页、iPhone / iPad、Android、微信小程序、电脑客户端一个账号。<br><sub>A team of 250+ AI experts in your pocket — research, plans, slides, web pages and videos, done for you.</sub> |
+| 🧪&nbsp;**[PocketExpert&nbsp;AI](https://agentsdance.ai)** | 口袋专家AI: 250+ 位 AI 行业专家, 一位或一群专家一起帮你查资料、写方案、做 PPT / 网页 / 视频。网页、iPhone / iPad、Android、微信小程序、电脑客户端一个账号。<br><sub>A team of 250+ AI experts in your pocket — research, plans, slides, web pages and videos, done for you.</sub> |
 | 🔧&nbsp;**[PocketExpertHarness](https://github.com/AgentsDanceAI/PocketExpertHarness)** | 口袋专家 AI 的开源智能体内核, 与线上同一个引擎, 5 分钟在自己电脑上跑起来 (Apache-2.0)。<br><sub>The open-source agent harness behind PocketExpert AI.</sub> |
 | 🛍️&nbsp;**[AI&nbsp;Store](https://aistore.best)** | 30+ 个开源 AI 应用, 一个账号全打开: 编程智能体、ComfyUI、Dify、数字人…… 云端开箱即用, 不用装环境, 也不用买 API Key。<br><sub>30+ open-source AI apps, one account — ready to use in the cloud.</sub> |
 
